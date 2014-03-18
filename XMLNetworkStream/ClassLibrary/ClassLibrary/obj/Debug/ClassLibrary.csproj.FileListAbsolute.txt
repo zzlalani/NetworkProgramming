@@ -1,0 +1,5 @@
+F:\Study\Spring2014\NetworkProgramming\ClassWork\XMLNetworkStream\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+F:\Study\Spring2014\NetworkProgramming\ClassWork\XMLNetworkStream\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+F:\Study\Spring2014\NetworkProgramming\ClassWork\XMLNetworkStream\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+F:\Study\Spring2014\NetworkProgramming\ClassWork\XMLNetworkStream\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+F:\Study\Spring2014\NetworkProgramming\ClassWork\XMLNetworkStream\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

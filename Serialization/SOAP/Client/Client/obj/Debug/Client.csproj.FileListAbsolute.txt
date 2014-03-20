@@ -1,0 +1,8 @@
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\SOAP\Client\Client\bin\Debug\Client.exe.config
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\SOAP\Client\Client\bin\Debug\Client.exe
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\SOAP\Client\Client\bin\Debug\Client.pdb
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\SOAP\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\SOAP\Client\Client\obj\Debug\Client.exe
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\SOAP\Client\Client\obj\Debug\Client.pdb
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\SOAP\Client\Client\bin\Debug\ClassLibrary.dll
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\SOAP\Client\Client\bin\Debug\ClassLibrary.pdb

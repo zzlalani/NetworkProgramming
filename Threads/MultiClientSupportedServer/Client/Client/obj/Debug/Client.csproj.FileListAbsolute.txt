@@ -1,0 +1,5 @@
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Threads\Chat\Client\Client\bin\Debug\Client.exe.config
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Threads\Chat\Client\Client\bin\Debug\Client.exe
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Threads\Chat\Client\Client\bin\Debug\Client.pdb
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Threads\Chat\Client\Client\obj\Debug\Client.exe
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Threads\Chat\Client\Client\obj\Debug\Client.pdb

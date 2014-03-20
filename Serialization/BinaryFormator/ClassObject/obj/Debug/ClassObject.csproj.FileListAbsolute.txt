@@ -1,0 +1,5 @@
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\BinaryFormator\ClassObject\bin\Debug\ClassObject.dll
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\BinaryFormator\ClassObject\bin\Debug\ClassObject.pdb
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\BinaryFormator\ClassObject\obj\Debug\ClassObject.csprojResolveAssemblyReference.cache
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\BinaryFormator\ClassObject\obj\Debug\ClassObject.dll
+F:\Study\Spring2014\NetworkProgramming\ClassWork\Serialization\BinaryFormator\ClassObject\obj\Debug\ClassObject.pdb
